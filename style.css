@@ -49,7 +49,7 @@ section {
     text-align: center;
     background: white;
     margin: 20px;
-    border-radius: 10px;
+    border-radius: 15px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     animation: fadeIn 1s ease-in-out;
     transform: perspective(1000px) rotateX(5deg);
